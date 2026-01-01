@@ -53,3 +53,5 @@ Predict the **median house value** using housing data by building a robust and r
 - NumPy
 - Scikit-learn
 - Joblib
+
+## Trained models are not committed to the repository to keep it lightweight. Models are generated locally during execution--
