@@ -1,6 +1,3 @@
-# house_price_prediction
-Built a production-ready machine learning pipeline for housing price prediction using Scikit-learn with automated preprocessing, model evaluation, and inference.
-
 # 🏠 Housing Price Prediction using Machine Learning
 
 This project implements an **end-to-end machine learning pipeline** to predict house prices based on various housing-related features such as location, median income, population, and number of rooms.
