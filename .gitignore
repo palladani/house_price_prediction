@@ -1,0 +1,10 @@
+# Trained ML models
+model.pkl
+pipeline.pkl
+
+# Output files
+output.csv
+
+# Python cache
+__pycache__/
+*.pyc
